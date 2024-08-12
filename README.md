@@ -1,4 +1,4 @@
-# power-Bi-project
+# E-Commerce sales Dashbord
 
 Analysis of e-commerce sales data active dashbord by using power BI
 created intractive dashboard to track and analyze online sales data
